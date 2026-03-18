@@ -31,5 +31,5 @@ This project solves it using semantic search + LLM to generate meaningful answer
 ## 📸 Output Example
 
 Below is a sample output from the RAG system:
-
+https://github.com/RachuriRamesh777/rag-pdf-chatbot/blob/main/Output.png
 ![RAG Chatbot Output](./output.png)
